@@ -3,6 +3,7 @@ simple demo
 - `bucket_size.cc`: collision statistics
 # io
 - `direct_io.cc`: alignment issue
+- `aio.cc`: aio demo (normal/signal/thread)
 # memory
 - `pack_aligned.cc`: pack and alignment
 # network
