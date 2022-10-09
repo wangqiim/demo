@@ -1,6 +1,7 @@
 simple demo
 # cpu
 - `sleep_yield`: sleep yield thread & sleep overhead
+- `cpu_usage`: cpu usage
 # hashmap
 - `bucket_size.cc`: collision statistics
 # io
