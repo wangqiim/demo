@@ -10,6 +10,7 @@ simple demo
 - `cpu_cache.cc`: cpu cacheline (l1/l2/l3)
 - `pack_aligned.cc`: pack and alignment
 - `prefetch.cc`: prefetch usage
+- `vmm_rss.cc`: memory usage
 # network
 ## epoll
 - `server.cc`: epoll server
