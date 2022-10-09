@@ -7,6 +7,9 @@
 
 using namespace std;
 
+// https://stackoverflow.com/questions/7880784/what-is-rss-and-vsz-in-linux-memory-management
+// https://www.tutorialspoint.com/how-to-get-memory-usage-under-linux-in-cplusplus
+
 void mem_usage() {
     double vm_usage = 0.0;
     double resident_set = 0.0;
