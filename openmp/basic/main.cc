@@ -1,6 +1,8 @@
 #include <iostream>
 #include <omp.h>
 
+// http://zhaoxuhui.top/blog/2017/12/02/OpenMP%E5%B9%B6%E8%A1%8C%E7%BC%96%E7%A8%8B%E7%AC%94%E8%AE%B0.html
+// https://zhuanlan.zhihu.com/p/497494198
 char datas[11];
 
 int main() {
