@@ -24,3 +24,6 @@ simple demo
 > calculator, test priority & prec
 # string
 - `print_str.c`: print char[]
+# openmp
+## basic
+> openmp basic test
